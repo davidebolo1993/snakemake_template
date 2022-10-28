@@ -1,1 +1,1 @@
-# Template for snakemake pipelines - run on the cluster
+# Template for snakemake pipelines - run on slurm cluster
